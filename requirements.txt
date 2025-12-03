@@ -1,0 +1,9 @@
+numpy
+opencv-python
+onnxruntime-gpu
+scikit-learn
+scikit-image
+tqdm
+mxnet
+insightface
+gradio

@@ -1,0 +1,16 @@
+venv310/
+SinglePhoto/
+MultiSrc/
+VideoSwapping/
+VideoSwappingAllFaces/
+MultiSrcSingleDst/
+MultiSrcMultiDst/
+SingleSrcMultiDst/
+CustomSwap/
+CustomVideoSwap/
+SingleSrcMultiVideo/
+__pycache__/*
+.gradio/
+
+
+
